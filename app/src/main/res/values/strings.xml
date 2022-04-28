@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Glass</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- main activity strings -->
+    <string name="hello_glass">Hello Glass !</string>
+    <string name="home_url">www.geeksforgeeks.com</string>
+
+    <!-- "ok glass" voice command -->
+    <string name="start_command">Hello Glass</string>
+
+</resources>
